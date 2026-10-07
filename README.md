@@ -16,21 +16,23 @@ Funcionalidades
 Capturas
 Capturas pendientes de incorporar al repositorio.
 
-Registros de tiempo
+### Registros de tiempo
+
  ![Pantalla principal con tarjetas de registros](assets/screenshots/home.png) 
 
-Horas por proyecto
+### Horas por proyecto
+
 ![Resumen de horas acumuladas por proyecto](assets/screenshots/projects_summary.png) 
 
-Nuevo registro
+ ###Nuevo registro
+
  ![Formulario para agregar un registro de tiempo](assets/screenshots/add_time_entry.png) 
 
 Gestión de proyectos y tareas
-<!-- ![Gestión de proyectos](assets/screenshots/project_management.png) -->
-<!-- ![Gestión de tareas](assets/screenshots/task_management.png) -->
+![Gestión de proyectos](assets/screenshots/project_management.png) 
+![Gestión de tareas](assets/screenshots/task_management.png) 
 
-Estado vacío
-<!-- ![Mensaje para añadir el primer registro](assets/screenshots/empty_state.png) -->
+
 
 Descargar la beta
 El APK para Android se publicará en Releases de este repositorio.

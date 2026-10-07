@@ -24,11 +24,12 @@ Capturas pendientes de incorporar al repositorio.
 
 ![Resumen de horas acumuladas por proyecto](assets/screenshots/projects_summary.png) 
 
- ###Nuevo registro
+ ### Nuevo registro
 
  ![Formulario para agregar un registro de tiempo](assets/screenshots/add_time_entry.png) 
 
-Gestión de proyectos y tareas
+### Gestión de proyectos y tareas
+
 ![Gestión de proyectos](assets/screenshots/project_management.png) 
 ![Gestión de tareas](assets/screenshots/task_management.png) 
 
